@@ -1,0 +1,8 @@
+
+
+THREE TYPES OF AUDIENCES
+
+  1. Core Audeinces - Target ads using FB data
+  2. Custom audiences - Use data from your CMS, website, mobile app, or other sources to target Facebook ads to people you already know.
+  3. Lookalike audiences - Surface new audiences by combining Custom Audiences with Facebook targeting.
+
